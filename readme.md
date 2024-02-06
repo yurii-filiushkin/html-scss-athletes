@@ -1,5 +1,6 @@
 # Highest-Paid Athletes
-- Clone the repo
+- Press `Use this template`
+- Clone the repo from your github repo
 - `npm i`
 - `npm start`
 - Develop a list of the richest athletes using [this design](https://www.figma.com/file/fs0dfZUONmT5PbHszXzM8qar/Athletes?node-id=0%3A1).
