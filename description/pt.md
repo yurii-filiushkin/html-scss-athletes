@@ -5,8 +5,6 @@ Implemente a página **Os atletas mais bem pagos** de acordo com o seguinte [des
 > [CSS Practice Explanation](https://vimeo.com/898073605/b3cbcff45d)
 
 - Todos os estilos e espaçamentos devem ser iguais aos do mockup (pixel perfect).
-- Você pode copiar o código HTML para o seu VSCode (WebStorm) para sua conveniência. No final, apenas copie/cole o resultado na plataforma e verifique se tudo está funcionando corretamente.
-- Se os estilos não forem aplicados - verifique o caminho para o arquivo SCSS após a cópia.
 - Você não precisa baixar imagens, pois o HTML usa links para imagens externas, não arquivos locais.
 - Claro que você pode alterar o HTML.
 - As classes e estilos CSS devem seguir a metodologia BEM
