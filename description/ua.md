@@ -2,7 +2,7 @@
 
 Реалізуй сторінку **Most paid athletes** відповідно до [Design](https://www.figma.com/file/0Fp7jz0rNDDhlxTdXFyh7o/Athletes?node-id=0%3A1)
 
-> Ось [Відео-пояснення дизайну](https://vimeo.com/898073605/b3cbcff45d)
+> [Відео-пояснення дизайну](https://vimeo.com/834731950/e8f9fb5227)
 
 - Усі стилі та відступи мають на 100% відповідати дизайну (pixel perfect)
 - Для зручності можна скопіювати HTML до себе в VSCode, а наприкінці
