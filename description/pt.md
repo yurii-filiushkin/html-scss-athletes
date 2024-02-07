@@ -2,6 +2,8 @@
 
 Implemente a página **Os atletas mais bem pagos** de acordo com o seguinte [design](https://www.figma.com/file/0Fp7jz0rNDDhlxTdXFyh7o/Athletes?node-id=0%3A1)
 
+> [CSS Practice Explanation](https://vimeo.com/898073605/b3cbcff45d)
+
 - Todos os estilos e espaçamentos devem ser iguais aos do mockup (pixel perfect).
 - Você pode copiar o código HTML para o seu VSCode (WebStorm) para sua conveniência. No final, apenas copie/cole o resultado na plataforma e verifique se tudo está funcionando corretamente.
 - Se os estilos não forem aplicados - verifique o caminho para o arquivo SCSS após a cópia.
