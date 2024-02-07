@@ -3,8 +3,6 @@
 Stwórz stronę **Most paid athletes** według [naszego dizajnu](https://www.figma.com/file/0Fp7jz0rNDDhlxTdXFyh7o/Athletes?node-id=0%3A1). Co istotne:
 
 - Wszystkie style, wcięcia, powinny być identyczne z mockupem (co do piksela!).
-- Możesz przekopiować kod HTML do swojego VSCode (Web Storm), dla wygody. Przekopiuj go tylko z powrotem na platformę, gdy skończysz pracę.
-  - Jeśli napotkasz na problemy ze stylami, sprawdź czy ścieżka do pliku SCSS jest właściwa.
 - Nie musisz pobierać obrazów, bo HTMl wykorzystuje odnośniki do zewnętrznych obrazów, nie - lokalnych.
 - Możesz zmodyfikować HTML według własnego upodobania.
 - Klasy i style CSS powinny być zgodne z metodologią BEM.

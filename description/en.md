@@ -3,9 +3,6 @@
 Implement the **Most paid athletes** page according to [the design](https://www.figma.com/file/0Fp7jz0rNDDhlxTdXFyh7o/Athletes?node-id=0%3A1)
 
 - All styles and indents should be the same as on the mockup (pixel perfect).
-- You can copy HTML code to your VSCode (WebStorm) for your convenience. In the
-  end just copy/paste the result back to the platform and check that everything works correctly.
-  - If styles are not applied - check the path to the SCSS file after copying.
 - You don't need to download images, because HTML uses links to external images, not local files.
 - Of course you may change the HTML.
 - CSS classes and styles must follow BEM methodology
