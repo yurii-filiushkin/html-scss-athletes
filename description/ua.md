@@ -1,6 +1,6 @@
 # Highest-Paid Athletes
 
-Реалізуйте сторінку **Most paid athletes** відповідно до [Design](https://www.figma.com/file/0Fp7jz0rNDDhlxTdXFyh7o/Athletes?node-id=0%3A1)
+Реалізуй сторінку **Most paid athletes** відповідно до [Design](https://www.figma.com/file/0Fp7jz0rNDDhlxTdXFyh7o/Athletes?node-id=0%3A1)
 
 > [Відео-пояснення дизайну](https://vimeo.com/834731950/e8f9fb5227)
 
