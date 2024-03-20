@@ -1,0 +1,95 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+.people {
+  grid-template-columns: repeat(2, 220px);
+  justify-content: center;
+  gap: 10px;
+  display: grid;
+}
+
+@media (width >= 1000px) {
+  .people {
+    grid-template-columns: repeat(4, 220px);
+  }
+}
+
+.person {
+  box-sizing: border-box;
+  border-radius: 10px;
+  width: 100%;
+  padding: 10px 10px 16px;
+  transition: transform 1s;
+}
+
+.person:hover {
+  background-color: #eee;
+  transform: scale(1.2);
+}
+
+.person:hover .extra {
+  display: block;
+}
+
+.photo {
+  position: relative;
+}
+
+.photo img {
+  border-radius: 50%;
+  width: 100%;
+  transition: all 1s;
+  display: block;
+}
+
+.photo img:hover {
+  border-radius: 60px;
+}
+
+.rank {
+  color: #8b0000;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  line-height: 32px;
+  display: block;
+  position: absolute;
+  top: 84px;
+  right: 10px;
+}
+
+.details {
+  position: relative;
+}
+
+.name {
+  text-align: center;
+  color: #2f4f4f;
+  width: 100%;
+  margin-top: 8px;
+  line-height: 23px;
+  display: block;
+}
+
+.extra {
+  text-align: center;
+  background-color: #eee;
+  margin-top: 9px;
+  font-size: 18px;
+  font-weight: 300;
+  display: none;
+}
+
+.pay:before {
+  content: "$";
+}
+
+.pay:after {
+  content: "M";
+}
+/*# sourceMappingURL=index.b1276d39.css.map */
